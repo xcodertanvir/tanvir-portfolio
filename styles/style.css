@@ -1,3 +1,35 @@
 body{
     background-color: black;
 }
+
+   
+   .contact{
+       text-decoration: none;
+       color: white;
+
+   }
+   .fa-facebook {
+       color: #1589FF;
+       font-size: 30px;
+       text-decoration: none;
+   }
+   .fa-linkedin {
+       color: whitesmoke;
+       font-size: 30px;
+       text-decoration: none;
+   }
+   .fa-linkedin a{
+    color: whitesmoke;
+    font-size: 30px;
+    text-decoration: none;
+}
+.fa-facebook a {
+    color: #1589FF;
+    font-size: 30px;
+    text-decoration: none;
+    
+}
+.footer{
+    text-align: center;
+    justify-content: center;
+}
